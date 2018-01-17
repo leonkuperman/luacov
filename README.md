@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/keplerproject/luacov.svg?branch=master)](https://travis-ci.org/keplerproject/luacov)
 [![Windows build status](https://ci.appveyor.com/api/projects/status/dd9gk87cpkqo5s58?svg=true)](https://ci.appveyor.com/project/mpeterv/luacov)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fluacov.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fluacov?ref=badge_shield)
 
 ## Overview
 
@@ -147,3 +148,7 @@ After cloning this repo, these commands may be useful:
 
 LuaCov was designed and implemented by Hisham Muhammad as a tool for testing
 [LuaRocks](https://luarocks.org/).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleonkuperman%2Fluacov.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleonkuperman%2Fluacov?ref=badge_large)
